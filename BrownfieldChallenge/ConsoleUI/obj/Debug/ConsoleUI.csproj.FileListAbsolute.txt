@@ -1,0 +1,6 @@
+C:\Users\Krilian\Desktop\Desarollo de interficies\Brownfield\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Krilian\Desktop\Desarollo de interficies\Brownfield\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Krilian\Desktop\Desarollo de interficies\Brownfield\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Krilian\Desktop\Desarollo de interficies\Brownfield\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Krilian\Desktop\Desarollo de interficies\Brownfield\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Krilian\Desktop\Desarollo de interficies\Brownfield\ConsoleUI\obj\Debug\ConsoleUI.pdb
